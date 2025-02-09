@@ -1,0 +1,7 @@
+chatbook:
+  ribbon:
+    listOfServers : localhost:8082,localhost:8083,localhost:8084
+    ServerListRefreshInterval: 2000
+
+server:
+  port: 9090
